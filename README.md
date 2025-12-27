@@ -1,5 +1,9 @@
 # MyBro - An AI To Help You Get Rid Of Depression
 
+*"Sometimes you need someone who fights for you when you can't fight for yourself."*
+
+![MyBro Architecture](docs/image.png)
+
 A compassionate AI chatbot designed to provide mental health support with genuine human-like responses. Built with Python, LangChain, and Google's Gemini API.
 
 ## 🎯 **What Makes MyBro Different?**
@@ -47,14 +51,8 @@ python main.py
 ## ⚠️ **Important Disclaimers**
 
 - **Not a Replacement for Professional Care**: MyBro provides peer support, not medical treatment
-- **Crisis Situations**: Always contact emergency services or crisis helplines for immediate danger
 - **Privacy**: Conversations are stored locally; review data handling before deployment
 
 ## 📜 **License**
 
 This project is open source and available under the [MIT License](LICENSE).
-
-
-**Built with ❤️ for mental health support**
-
-*"Sometimes you need someone who fights for you when you can't fight for yourself."*
