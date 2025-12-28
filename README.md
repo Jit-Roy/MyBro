@@ -15,6 +15,10 @@ Unlike clinical chatbots that just ask questions, MyBro responds like a **caring
 - **Shows real emotion** and urgency about your wellbeing
 - **Protects you from your own dark thoughts**
 
+## 🎯 **Our Second Repo For anroid code**
+
+*Link: https://github.com/ArchitAnant/Sorea.git*
+
 ## 🚀 **Installation & Setup**
 
 ### **1. Clone the Repository**
